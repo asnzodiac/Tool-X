@@ -1,6 +1,6 @@
 
 
-# Tool-X v2.1
+# tool-x v3.1
 
 [![Build Status](https://img.shields.io/github/forks/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
 [![Build Status](https://img.shields.io/github/stars/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
