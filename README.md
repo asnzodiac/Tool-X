@@ -38,7 +38,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `https://github.com/asnzodiac/Tool-X.git`
 
 * `cd Tool-X`
 
