@@ -1,5 +1,5 @@
 # Tool Name :- Tool-X
-# Author :- Rajkumar dusad
+# Author :- Aswin
 # Date :- 1/11/2017
 
 if [ -e  /usr/lib/sudo ];then
